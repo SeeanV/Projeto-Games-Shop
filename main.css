@@ -90,6 +90,15 @@ section p {
     height: 24px;
 }
 
+.social-links li {
+    display: inline;
+    margin-right: 8px;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
+
 #contact .container {
     display: block;
 }
